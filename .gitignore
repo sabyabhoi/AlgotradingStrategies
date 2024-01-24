@@ -9,3 +9,5 @@
 /**/share
 /**/__pycache__
 /**/pyvenv.cfg
+/**/*.html
+/**/*.parquet
