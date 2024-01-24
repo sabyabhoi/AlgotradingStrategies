@@ -1,0 +1,11 @@
+.env
+/**/*.log
+/**/*.db
+/bin
+/include 
+/lib 
+/lib64 
+/share 
+/**/share
+/**/__pycache__
+/**/pyvenv.cfg
