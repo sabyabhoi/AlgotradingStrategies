@@ -12,3 +12,4 @@
 /**/*.html
 /**/*.parquet
 /etc
+venv
