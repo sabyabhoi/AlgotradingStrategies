@@ -13,3 +13,5 @@
 /**/*.parquet
 /etc
 venv
+.direnv
+.envrc
